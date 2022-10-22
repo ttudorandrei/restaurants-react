@@ -1,0 +1,47 @@
+[
+  {
+    "id": 9832,
+    "uid": "1b882e0c-b776-4c20-84a9-5a3139fc8ca2",
+    "dish": "Barbecue Ribs",
+    "description": "Two butter croissants of your choice (plain, almond or cheese). With a side of herb butter or house-made hazelnut spread.",
+    "ingredient": "Parsnip",
+    "image": "https://image.shutterstock.com/image-photo/burritos-wraps-beef-vegetables-on-600w-1088296088.jpg",
+    "measurement": "1/4 quart"
+  },
+  {
+    "id": 9376,
+    "uid": "d8e16a1d-efea-43ac-98fa-f92c01648a4f",
+    "dish": "French Fries with Sausages",
+    "description": "Three egg omelet with Roquefort cheese, chives, and ham. With a side of roasted potatoes, and your choice of toast or croissant.",
+    "ingredient": "Margarine",
+    "image": "https://image.shutterstock.com/image-photo/burritos-wraps-beef-vegetables-on-600w-1088296088.jpg",
+    "measurement": "1 quart"
+  },
+  {
+    "id": 748,
+    "uid": "af31dd99-f66e-4277-a704-4c453177e77b",
+    "dish": "Pho",
+    "description": "Breaded fried chicken with waffles. Served with maple syrup.",
+    "ingredient": "Peppermint",
+    "image": "https://image.shutterstock.com/image-photo/burritos-wraps-beef-vegetables-on-600w-1088296088.jpg",
+    "measurement": "3 quart"
+  },
+  {
+    "id": 9722,
+    "uid": "2c7b1c21-3964-4f92-8bde-d83d9cc113c7",
+    "dish": "Chilli con Carne",
+    "description": "Fresh parsley, Italian sausage, shallots, garlic, sun-dried tomatoes and mozzarella cheese in an all-butter crust. With a side of mixed fruits.",
+    "ingredient": "Cream",
+    "image": "https://image.shutterstock.com/image-photo/burritos-wraps-beef-vegetables-on-600w-1088296088.jpg",
+    "measurement": "3 tablespoon"
+  },
+  {
+    "id": 1004,
+    "uid": "7bc7d68e-f06c-4344-afb0-24af4ffe7548",
+    "dish": "Arepas",
+    "description": "Three eggs with cilantro, tomatoes, onions, avocados and melted Emmental cheese. With a side of roasted potatoes, and your choice of toast or croissant.",
+    "ingredient": "Red Wine Vinegar",
+    "image": "https://image.shutterstock.com/image-photo/burritos-wraps-beef-vegetables-on-600w-1088296088.jpg",
+    "measurement": "1 teaspoon"
+  }
+]
