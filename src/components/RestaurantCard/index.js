@@ -1,13 +1,17 @@
-const RestaurantCard = () => {
+const RestaurantCard = (props) => {
+  const { item } = props;
+
   return (
     <div className="card" style={{ width: "18rem" }}>
-      <img src="..." className="card-img-top" alt="..." />
+      <img src={item.image} className="card-img-top" alt="..." />
       <div className="card-body">
-        <h5 className="card-title">Card title</h5>
-        <p className="card-text">
-          Some quick example text to build on the card title and make up the
-          bulk of the card's content.
-        </p>
+        <h5 className="card-title">{item.dish}</h5>
+        <p className="card-text">{item.description}</p>
+
+        <div>
+          {item.ingredient} - {item.measurement}
+        </div>
+        <hr />
         <a href="#" className="btn btn-primary">
           Go somewhere
         </a>
