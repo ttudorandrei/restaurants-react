@@ -1,4 +1,4 @@
-const RestaurantCard = (props) => {
+const MenuItemCard = (props) => {
   const { item } = props;
 
   return (
@@ -20,4 +20,4 @@ const RestaurantCard = (props) => {
   );
 };
 
-export default RestaurantCard;
+export default MenuItemCard;

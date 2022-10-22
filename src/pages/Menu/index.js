@@ -1,11 +1,11 @@
-import RestaurantCard from "../../components/RestaurantCard";
+import MenuItemCard from "../../components/MenuItemCard";
 import menuData from "../../data/menu.json";
 
 const MenuPage = () => {
   return (
     <div>
       {menuData.map((menuItem) => {
-        return <RestaurantCard item={menuItem} />;
+        return <MenuItemCard item={menuItem} />;
       })}
     </div>
   );
