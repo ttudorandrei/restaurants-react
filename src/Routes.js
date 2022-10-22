@@ -4,7 +4,9 @@ import MenuPage from "./pages/Menu";
 
 const AppRoutes = () => {
   return (
+    // collection of routes
     <Routes>
+      {/* displaying the select component/page when the specific path is being hit */}
       <Route exact path="/" element={<Homepage />}></Route>
       <Route exact path="/menu" element={<MenuPage />}></Route>
     </Routes>

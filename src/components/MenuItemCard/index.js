@@ -1,4 +1,5 @@
 const MenuItemCard = (props) => {
+  // destructuring the props
   const { item } = props;
 
   return (

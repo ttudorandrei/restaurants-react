@@ -21,6 +21,7 @@ const NavigationBar = () => {
         </button>
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav">
+            {/* adding links to different paths in app */}
             <li className="nav-item">
               <Link to="/">Home</Link>
             </li>
